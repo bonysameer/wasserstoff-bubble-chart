@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/wasserstoff-bubble-chart/static/css/main.f6b2ae70.css",
+    "main.js": "/wasserstoff-bubble-chart/static/js/main.b734f8a0.js",
+    "static/js/787.4a8b83e1.chunk.js": "/wasserstoff-bubble-chart/static/js/787.4a8b83e1.chunk.js",
+    "static/media/wstflogo-1.svg": "/wasserstoff-bubble-chart/static/media/wstflogo-1.1d65ac282db5b25f3c7c346c551087a5.svg",
+    "static/media/bubble-chart.svg": "/wasserstoff-bubble-chart/static/media/bubble-chart.ce0704a411a3e9583d742d9430ae9b11.svg",
+    "static/media/tool.svg": "/wasserstoff-bubble-chart/static/media/tool.a1243fb46678da4cf380ebce4ade72a3.svg",
+    "static/media/chart--double-big-circle-chart.svg": "/wasserstoff-bubble-chart/static/media/chart--double-big-circle-chart.97e6c26f7335274a04a95e19dfd7e4d7.svg",
+    "static/media/zoom.svg": "/wasserstoff-bubble-chart/static/media/zoom.3ce315baaab53dbd90fd2577b346bff0.svg",
+    "static/media/option.svg": "/wasserstoff-bubble-chart/static/media/option.ba0359226a7e0e9fbc56fcee470c1d98.svg",
+    "static/media/profile.svg": "/wasserstoff-bubble-chart/static/media/profile.71f90ae664dec8ae17f4a15798dfdca3.svg",
+    "static/media/map.svg": "/wasserstoff-bubble-chart/static/media/map.e86efedf44b9f16bb20a45b09463df3e.svg",
+    "index.html": "/wasserstoff-bubble-chart/index.html",
+    "static/media/icon.svg": "/wasserstoff-bubble-chart/static/media/icon.05e2112e8188d989d6beb5d1e036909e.svg",
+    "static/media/chart.svg": "/wasserstoff-bubble-chart/static/media/chart.3510eed51288b919c483e93c6542b6ef.svg",
+    "static/media/arrow-up.svg": "/wasserstoff-bubble-chart/static/media/arrow-up.f65a4f10887c59714586569231ee2691.svg",
+    "static/media/divider.svg": "/wasserstoff-bubble-chart/static/media/divider.7b5707c8028b9b09ec4f386537b38485.svg",
+    "main.f6b2ae70.css.map": "/wasserstoff-bubble-chart/static/css/main.f6b2ae70.css.map",
+    "main.b734f8a0.js.map": "/wasserstoff-bubble-chart/static/js/main.b734f8a0.js.map",
+    "787.4a8b83e1.chunk.js.map": "/wasserstoff-bubble-chart/static/js/787.4a8b83e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6b2ae70.css",
+    "static/js/main.b734f8a0.js"
+  ]
+}
