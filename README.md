@@ -27,6 +27,10 @@ To tackle the project requirements, I have structured the application using func
 
 Throughout the development process, I have followed best practices and maintained a clean and organized code structure. The project showcases my proficiency in working with React.js and related technologies, as well as my ability to implement client-side routing efficiently.
 
+Short Video Link of the Project
+________________________________
+https://drive.google.com/file/d/143bfY2j21vGlNe-yp5EkRMYgsihWMBnr/view?usp=drive_link
+
 
 # Getting Started with Create React App
 
